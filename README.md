@@ -11,7 +11,7 @@
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://easyhomputer.tistory.com">
+    <a href="[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=fkclfm)](https://velog.io/@fkclfm)">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
     <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
